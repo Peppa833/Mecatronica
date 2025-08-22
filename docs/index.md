@@ -6,9 +6,9 @@ Hola somos Alejandro Ruiz y Santiago Ortiz, estudiantes de Ingenieria Mecatronic
 
 ## Santiago Ortiz Mucharraz
 
-**Acerca de mi**
+**Acerca de mi** 
 
-![Diagrama del sistema](recursos/imgs/image.jpeg)
+<img src="recursos/imgs/image.jpeg" alt="Diagrama del sistema" width="420">
 
 ## Alejandro Ruiz Corona
 

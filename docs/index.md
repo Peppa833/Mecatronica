@@ -1,7 +1,6 @@
-# Documentación del Proyecto Alejandro R
+# Documentación del Proyecto de Alejandro Ruiz y Santiago Ortiz
 
-Bienvenido 👋  
-Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
+Hola somos Alejandro Ruiz y Santiago Ortiz, estudiantes de Ingenieria Mecatronica en la IBERO
 
 ---
 

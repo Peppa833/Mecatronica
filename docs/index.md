@@ -6,19 +6,11 @@ Hola somos Alejandro Ruiz y Santiago Ortiz, estudiantes de Ingenieria Mecatronic
 
 ## Santiago Ortiz Mucharraz
 
-**Acerca de mi** en `mkdocs.yml`:
-   ```yaml
-   site_name: Documentación del Curso
-   theme:
-     name: material
-```
+**Acerca de mi**
+
 ![Diagrama del sistema](recursos/imgs/image.jpeg)
 
 ## Alejandro Ruiz Corona
 
-**Acerca de mi** en `mkdocs.yml`:
-   ```yaml
-   site_name: Documentación del Curso
-   theme:
-     name: material
-```
+**Acerca de mi**
+Soy Estudiante de Ingenieria Mecatronica

@@ -4,9 +4,8 @@ Hola somos Alejandro Ruiz y Santiago Ortiz, estudiantes de Ingenieria Mecatronic
 
 ---
 
-![Diagrama del sistema](recursos/imgs/ibero.jpeg)
+![Diagrama del sistema](recursos/imgs/image.jpeg)
 
-<img src="../recursos/imgs/ibero.jpeg" alt="Diagrama del sistema" width="420">
 
 ## Empezar rápido (3 pasos)
 

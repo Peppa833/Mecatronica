@@ -8,9 +8,9 @@ Hola somos Alejandro Ruiz y Santiago Ortiz, estudiantes de Ingenieria Mecatronic
 
 <img src="../recursos/imgs/image.jpeg" alt="Diagrama del sistema" width="420">
 
-## Empezar rápido (3 pasos)
+## Santiago Ortiz Mucharraz
 
-1. **Edita el nombre del sitio** en `mkdocs.yml`:
+**Acerca de mi** en `mkdocs.yml`:
    ```yaml
    site_name: Documentación del Curso
    theme:

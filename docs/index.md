@@ -30,6 +30,11 @@ El viaje a japon me permitio ver que hay mucho mas de lo que uno cree conocer, v
 - **Meidano plazo**: Conforme avance en la carrera, mi objetivo es irme de intercambio a japon, porque quiero vivir como se puede usar la mecatronica de diferentes maneras.  
 - **Largo plazo**: Mi objetivo es hacer una doble titulacion con Electronica ya que son las dos areas que mas me gustan de la ingenieria.  
 
+### Contacto  
+- Correo: 196901@iberopuebla.mx
+- Telefono: +55 221 598 5620
+- Teams: 196901@iberopuebla.mx
+
 ---
 
 <img src="recursos/imgs/alex.jpeg" alt="Diagrama del sistema" width="210">

@@ -56,7 +56,7 @@ Soy Estudiante de Ingenieria Mecatronica en la **Universidad Iberoamericana** en
 **Mayor logro** 
 Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a nacionales ya que es una oportunidad muy buena y no se le ofrece a mucha gente, gracias a toda la gente que me enseño las cosas mas importantes y mejorar tecnicas pude llegar hasta ese momento.
 
-**Objetivos** 
+**Objetivos**   
 - **Corto plazo**: Mi objetivo a corto plazo es tener una buena calificación este semestre y aprender lo basico como electronica y matemáticas.  
 - **Mediano plazo**: Mi objetivo a mediano plazo es conseguir un trabajo que tenga que ver con lo que estoy estudiandoy seguir aprendiendo.  
 - **Largo plazo**: Mi objetivo a largo plazo es lograr titularme satisfactoriamente de la universidad.

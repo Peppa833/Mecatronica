@@ -29,7 +29,7 @@ El viaje a japon me permitio ver que hay mucho mas de lo que uno cree conocer, v
 
 **Objetivos**  
 - **Corto plazo**: Mi objetivo a corto plazo en esta carrera es poder aprender lo basico, tanto de la mecatronica como de la electronica y programacion.  
-- **Meidano plazo**: Conforme avance en la carrera, mi objetivo es irme de intercambio a japon, porque quiero vivir como se puede usar la mecatronica de diferentes maneras.  
+- **Mediano plazo**: Conforme avance en la carrera, mi objetivo es irme de intercambio a japon, porque quiero vivir como se puede usar la mecatronica de diferentes maneras.  
 - **Largo plazo**: Mi objetivo es hacer una doble titulacion con Electronica ya que son las dos areas que mas me gustan de la ingenieria.  
 
 ### Contacto  
@@ -49,17 +49,17 @@ Soy Estudiante de Ingenieria Mecatronica en la **Universidad Iberoamericana** en
 
 **Datos curiosos**
 
-- Tengo interes hacia la mecatronica debido a que de pequeño me gustaba armar y desarmar cosas
-- Hago gym y fui seleccionado de natación con oportunidad de ir a nacionales
-- Me interesa la programación ya que es un nuevo mund para mi
+- Tengo interes hacia la mecatronica debido a que de pequeño me gustaba armar y desarmar cosas.
+- Hago gym y fui seleccionado de natación con oportunidad de ir a nacionales.
+- Me interesa la programación ya que es un nuevo mund para mi.
 
 **Mayor logro** 
-Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a nacionales ya que es una oportunidad muy buena y no se le ofrece a mucha gente, gracias a toda la gente que me enseño las cosas mas importantes y mejorar tecnicas pude llegar hasta ese momento
+Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a nacionales ya que es una oportunidad muy buena y no se le ofrece a mucha gente, gracias a toda la gente que me enseño las cosas mas importantes y mejorar tecnicas pude llegar hasta ese momento.
 
 **Objetivos** 
-- **Corto plazo**: Mi objetivo a corto plazo es tener una buena calificación este semestre y aprender lo basico como electronica y matemáticas
-- **Meidano plazo**: Mi objetivo a mediano plazo es conseguir un trabajo que tenga que ver con lo que estoy estudiandoy seguir aprendiendo 
-- **Largo plazo**: Mi objetivo a largo plazo es lograr titularme satisfactoriamente de la universidad
+- **Corto plazo**: Mi objetivo a corto plazo es tener una buena calificación este semestre y aprender lo basico como electronica y matemáticas.
+- **Mediano plazo**: Mi objetivo a mediano plazo es conseguir un trabajo que tenga que ver con lo que estoy estudiandoy seguir aprendiendo.
+- **Largo plazo**: Mi objetivo a largo plazo es lograr titularme satisfactoriamente de la universidad.
 
 ### Contacto  
 - Correo: 203982@iberopuebla.mx

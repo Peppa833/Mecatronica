@@ -1,6 +1,9 @@
 # Documentación del Proyecto de Alejandro Ruiz y Santiago Ortiz
 
-Hola somos Alejandro Ruiz y Santiago Ortiz, estudiantes de Ingenieria Mecatronica en la IBERO
+Hola somos Alejandro Ruiz y Santiago Ortiz, estudiantes de Ingenieria Mecatronica en la **Universidad Iberoamericana**
+
+---
+<img src="recursos/imgs/ibero.jpeg" alt="Diagrama del sistema" width="210">
 
 ---
 
@@ -41,5 +44,25 @@ El viaje a japon me permitio ver que hay mucho mas de lo que uno cree conocer, v
 
 ## Alejandro Ruiz Corona
 
-**Acerca de mi**
-Soy Estudiante de Ingenieria Mecatronica
+Soy Estudiante de Ingenieria Mecatronica en la **Universidad Iberoamericana** en el Campus Puebla esta pagina web esta diseñada para crear un portafolio de evidencias
+
+## Acerca de mi
+
+**Datos curiosos**
+
+- Tengo interes hacia la mecatronica debido a que de pequeño me gustaba armar y desarmar cosas
+- Hago gym y fui seleccionado de natación con oportunidad de ir a nacionales
+- Me interesa la programación ya que es un nuevo mund para mi
+
+**Mayor logro** 
+Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a nacionales ya que es una oportunidad muy buena y no se le ofrece a mucha gente, gracias a toda la gente que me enseño las cosas mas importantes y mejorar tecnicas pude llegar hasta ese momento
+
+**Objetivos** 
+- **Corto plazo**: Mi objetivo a corto plazo es tener una buena calificación este semestre y aprender lo basico como electronica y matemáticas
+- **Meidano plazo**: Mi objetivo a mediano plazo es conseguir un trabajo que tenga que ver con lo que estoy estudiandoy seguir aprendiendo 
+- **Largo plazo**: Mi objetivo a largo plazo es lograr titularme satisfactoriamente de la universidad
+
+### Contacto  
+- Correo: 203982@iberopuebla.mx
+- Telefono: +55 222 747 2837
+- Teams: 203982@iberopuebla.mx

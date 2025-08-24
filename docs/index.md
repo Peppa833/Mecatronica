@@ -2,7 +2,6 @@
 
 Hola somos Alejandro Ruiz y Santiago Ortiz, estudiantes de Ingenieria Mecatronica en la **Universidad Iberoamericana**
 
----
 <img src="recursos/imgs/ibero.jpeg" alt="Diagrama del sistema" width="210">
 
 ---

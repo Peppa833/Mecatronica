@@ -65,3 +65,9 @@ Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a n
 - Correo: 203982@iberopuebla.mx
 - Telefono: +55 222 747 2837
 - Teams: 203982@iberopuebla.mx
+
+---
+#Primer trabajo:  
+En este trabajo lo que realizamos fue un circuito para que un led encendiera y se apagara cada determinado tiempo.  
+A continuacion adjunto el video de evidencia sobre como funcionaba el circuito:  
+

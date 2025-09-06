@@ -71,4 +71,4 @@ Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a n
 En este trabajo lo que realizamos fue un circuito para que un led encendiera y se apagara cada determinado tiempo.  
 A continuacion adjunto el video de evidencia sobre como funcionaba el circuito:  
 
-<video src="recursos/videos/PrimerTrabajo" alt="Diagrama del sistema" width="210">
+<video src="recursos/videos/PrimerTrabajo.mp4" alt="Diagrama del sistema" width="210">

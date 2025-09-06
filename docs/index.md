@@ -67,8 +67,13 @@ Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a n
 - Teams: 203982@iberopuebla.mx
 
 ---
-#Primer trabajo:  
-En este trabajo lo que realizamos fue un circuito para que un led encendiera y se apagara cada determinado tiempo.  
-A continuacion adjunto el video de evidencia sobre como funcionaba el circuito:  
 
-<video src="recursos/videos/PrimerTrabajo.mp4" alt="Diagrama del sistema" width="210">
+#Primer trabajo
+  
+##Resumen  
+
+- Nombre del Proyecto: Led intermitente
+- Equipo: Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
+- Curso: Introduccion a la mecatronica
+- Fecha: 05/09/2025
+- Descripcion: El trabajo que se realizo el dia 5 de septiembre de 2025, fue un circtuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, en nuestro caso, duraba 6 segundos encedido, y 4 segundos apagado, debido a las resistencias, el capacitador, y la corriente que usamos.  

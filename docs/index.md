@@ -80,4 +80,4 @@ Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a n
 
 <img src="recursos/imgs/imagen.png" alt="Diagrama del sistema" width="410">
 
-En la imagen anterior se puede apreciar en calculo de el LED para que pudiera encenderse y apagarse en un tiempo determinado utlilizando resistencias de 5000 y 4700 Ω
+En la imagen anterior se puede apreciar en calculo de el LED para que pudiera encenderse y apagarse en un tiempo determinado utlilizando resistencias de 5000 y 4700 Ω y un capacitor de 680 gracias a esto logramos terminar el trabajo satisfactoriamente

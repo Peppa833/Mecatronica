@@ -95,9 +95,11 @@ En la imagen anterior se puede apreciar en calculo de el LED para que pudiera en
 <iframe 
     width="560" 
     height="315" 
-    src="https://youtu.be/G2RH5UkjFAU" 
+    src="https://www.youtube.com/embed/G2RH5UkjFAU" 
     title="Video de YouTube" 
     frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
 </iframe>
+
 

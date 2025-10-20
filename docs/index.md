@@ -82,15 +82,7 @@ Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a n
 
 En la imagen anterior se puede apreciar en calculo de el LED para que pudiera encenderse y apagarse en un tiempo determinado utlilizando resistencias de 5000 y 4700 Ω y un capacitor de 680 gracias a esto logramos terminar el trabajo satisfactoriamente
 
-- Nombre del Proyecto: ESP32
-- Equipo: Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
-- Curso: Introduccion a la mecatronica
-- Fecha: 05/09/2025
-- Descripcion: El trabajo que se realizo el dia 5 de septiembre de 2025, fue un circtuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, en nuestro caso, duraba 6 segundos encedido, y 4 segundos apagado, debido a las resistencias, el capacitador, y la corriente que usamos. 
-
-<img src="recursos/imgs/imagen.png" alt="Diagrama del sistema" width="410">
-
-En la imagen anterior se puede apreciar en calculo de el LED para que pudiera encenderse y apagarse en un tiempo determinado utlilizando resistencias de 5000 y 4700 Ω y un capacitor de 680 gracias a esto logramos terminar el trabajo satisfactoriamente
+En el siguiente video se puede apreciar el LED apagandose y encendiendose
 
 <iframe 
     width="560" 
@@ -101,5 +93,17 @@ En la imagen anterior se puede apreciar en calculo de el LED para que pudiera en
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
 </iframe>
+
+
+- Nombre del Proyecto: ESP32
+- Equipo: Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
+- Curso: Introduccion a la mecatronica
+- Fecha: 05/09/2025
+- Descripcion: El trabajo que se realizo el dia 5 de septiembre de 2025, fue un circtuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, en nuestro caso, duraba 6 segundos encedido, y 4 segundos apagado, debido a las resistencias, el capacitador, y la corriente que usamos. 
+
+<img src="recursos/imgs/imagen.png" alt="Diagrama del sistema" width="410">
+
+En la imagen anterior se puede apreciar en calculo de el LED para que pudiera encenderse y apagarse en un tiempo determinado utlilizando resistencias de 5000 y 4700 Ω y un capacitor de 680 gracias a esto logramos terminar el trabajo satisfactoriamente
+
 
 

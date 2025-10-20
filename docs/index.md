@@ -76,7 +76,7 @@ Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a n
 - Equipo: Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
 - Curso: Introduccion a la mecatronica
 - Fecha: 05/09/2025
-- Descripcion: El trabajo que se realizo el dia 5 de septiembre de 2025, fue un circtuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, en nuestro caso, duraba 6 segundos encedido, y 4 segundos apagado, debido a las resistencias, el capacitador, y la corriente que usamos. 
+- Descripcion: El trabajo que se realizo el dia 5 de septiembre de 2025, fue un circuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, en nuestro caso, duraba 6 segundos encedido, y 4 segundos apagado, debido a las resistencias, el capacitador, y la corriente que usamos. 
 
 <img src="recursos/imgs/imagen.png" alt="Diagrama del sistema" width="410">
 
@@ -99,7 +99,7 @@ En el siguiente video se puede apreciar el LED apagandose y encendiendose
 - Equipo: Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
 - Curso: Introduccion a la mecatronica
 - Fecha: 12/09/2025
-- Descripcion: El trabajo que se realizo el dia 12 de septiembre de 2025, fue un circtuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, con el codigo de arduino hecho en clase y cargado al Chip ESP32 
+- Descripcion: El trabajo que se realizo el dia 12 de septiembre de 2025, fue un circuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, con el codigo de arduino hecho en clase y cargado al Chip ESP32 
 
 <iframe 
   width="560" 
@@ -111,6 +111,17 @@ En el siguiente video se puede apreciar el LED apagandose y encendiendose
   allowfullscreen>
 </iframe>
 
+Despues de completar satisfactoriamente el primer ejercicio que era encender el LED con esl ESP32 tuvimos que encender el LED cuando se presionaba un boton y se logro gracias a la programacion del Chip ESP32
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/bZpznYBI-WY" 
+  title="YouTube Shorts video" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 
 

@@ -106,6 +106,25 @@ En el siguiente video se puede apreciar el LED apagandose y encendiendose
 - Fecha: 12/09/2025
 - Descripcion: El trabajo que se realizo el dia 12 de septiembre de 2025, fue un circuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, con el codigo de arduino hecho en clase y cargado al Chip ESP32 
 
+<pre><code>
+int led = 2;
+const int led=33; 
+const int btn=25; 
+
+void setup(){
+  Serial.begin(115200);
+  pinMode(led,OUTPUT);
+  pinMode(btn,INPUT);
+}
+
+void loop(){
+  digitalWrite(led,1);
+  delay(1000);
+  digitalWrite(led,0);
+  delay(1000);
+}  
+</code></pre>
+
 <iframe 
   width="560" 
   height="315" 
@@ -117,6 +136,25 @@ En el siguiente video se puede apreciar el LED apagandose y encendiendose
 </iframe>
 
 Despues de completar satisfactoriamente el primer ejercicio que era encender el LED con el ESP32 tuvimos que encender el LED cuando se presionaba un boton y se logro gracias a la programacion del Chip ESP32
+
+<pre><code>
+//Revisar donde esta cableado el botón y el LED 
+#define LED 23 
+#define BUTTON 33 
+ 
+void setup(){
+  pinMode(LED, OUTPUT);
+  pinMode(BUTTON, INPUT); 
+}
+
+void loop(){
+  if (digitalRead(BUTTON) == HIGH){
+    digitalWrite(LED, HIGH);
+  }else {
+    digitalWrite(LED, LOW);
+  }
+}
+</code></pre>
 
 <iframe 
   width="560" 
@@ -130,6 +168,30 @@ Despues de completar satisfactoriamente el primer ejercicio que era encender el 
 
 Despues de completar satisfactoriamente el segundo ejercicio que era encender el LED con boton tuvimos que encender el LED con un mensaje enviado por bluetooth controlado por el ESP32 ya que  el chip ESP32 tiene conexion a bluetooth tuvimos que encender el LED cuando se enviaba el mensaje anterior mente definido y se logro gracias a la programacion del Chip ESP32
 
+<pre><code>
+#include "BluetoothSerial.h" 
+int led=33; 
+BluetoothSerial SerialBT; 
+
+void setup(){
+  SerialBT.begin("TITIEL");
+  Serial.begin(115200);("ESP32");
+  pinMode(led,OUTPUT); 
+}
+
+void loop(){
+  if(SerialBT.available()){
+    String mensaje = SerialBT.readString();
+    Serial.println("Recibido: " + mensaje);
+    if(mensaje == "ON")
+    digitalWrite(led,1);
+    if(mensaje == "OFF")
+    digitalWrite(led,0);
+  }
+  delay(100); 
+}
+</code></pre>
+
 <iframe 
   width="560" 
   height="315" 
@@ -140,17 +202,4 @@ Despues de completar satisfactoriamente el segundo ejercicio que era encender el
   allowfullscreen>
 </iframe>
 
-<pre><code>
-int led = 2;
 
-void setup() {
-  pinMode(led, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(led, HIGH);
-  delay(1000);
-  digitalWrite(led, LOW);
-  delay(1000);
-}
-</code></pre>

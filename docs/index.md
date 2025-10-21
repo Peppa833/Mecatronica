@@ -116,7 +116,7 @@ En el siguiente video se puede apreciar el LED apagandose y encendiendose
   allowfullscreen>
 </iframe>
 
-Despues de completar satisfactoriamente el primer ejercicio que era encender el LED con esl ESP32 tuvimos que encender el LED cuando se presionaba un boton y se logro gracias a la programacion del Chip ESP32
+Despues de completar satisfactoriamente el primer ejercicio que era encender el LED con el ESP32 tuvimos que encender el LED cuando se presionaba un boton y se logro gracias a la programacion del Chip ESP32
 
 <iframe 
   width="560" 
@@ -128,5 +128,5 @@ Despues de completar satisfactoriamente el primer ejercicio que era encender el 
   allowfullscreen>
 </iframe>
 
-
+Despues de completar satisfactoriamente el segundo ejercicio que era encender el LED con boton tuvimos que encender el LED con un mensaje enviado por bluetooth controlado por el ESP32 ya que  el chip ESP32 tiene conexion a bluetooth tuvimos que encender el LED cuando se enviaba el mensaje anterior mente definido y se logro gracias a la programacion del Chip ESP32
 

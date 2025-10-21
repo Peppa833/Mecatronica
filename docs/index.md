@@ -130,3 +130,12 @@ Despues de completar satisfactoriamente el primer ejercicio que era encender el 
 
 Despues de completar satisfactoriamente el segundo ejercicio que era encender el LED con boton tuvimos que encender el LED con un mensaje enviado por bluetooth controlado por el ESP32 ya que  el chip ESP32 tiene conexion a bluetooth tuvimos que encender el LED cuando se enviaba el mensaje anterior mente definido y se logro gracias a la programacion del Chip ESP32
 
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/jlJ0MPa7DIM" 
+  title="YouTube Shorts video" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>

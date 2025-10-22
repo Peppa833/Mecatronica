@@ -223,3 +223,106 @@ void loop(){
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
 </iframe>
+
+#Proyecto
+  
+##Resumen  
+
+- **Nombre del Proyecto:** Carrito a control remoto
+- **Equipo:** Equipo salon de electronica
+- **Curso:** Introduccion a la mecatronica
+- **Fecha:** 17/10/2025
+- **Descripcion:** El trabajo que se realizo el dia 17 de octubre de 2025, se realizo un carrito a control remoto donde todo el equipo se junto para hacer el proyecto, en nuestro caso nos toco conectar el puente H y hacer el codigo de los motores que logramos hacer con exito y por ultimo unir el codigo de los motores y los servomotores y logramos tener el carrito funcionando
+
+<pre><code>
+#include "BluetoothSerial.h"
+BluetoothSerial SerialBT;
+
+#define SERVO_PIN 32  // Pin del servo
+#define pwm 26 //Pin del control de velocidad
+//Controladores del motor de llanta izquierda
+#define in1 33
+#define in2 25
+//COntroladores del motor de llanta derecha
+#define in3 27
+#define in4 14
+
+int angulo = 90;      // Posición inicial
+int nuevoAngulo = 0;
+void setup() {
+  Serial.begin(115200);
+  SerialBT.begin("Pancracio2");  // Nombre Bluetooth visible en la app+
+  Serial.println("Esperando conexión Bluetooth...");
+
+  // PWM del ESP32 para controlar el servo
+  ledcAttach(SERVO_PIN, 50, 8);  // Pin, frecuencia 50Hz, resolución 8 bits
+//Salidas de los motores
+  pinMode(in1, OUTPUT);
+  pinMode(in2, OUTPUT);
+  pinMode(in3, OUTPUT);
+  pinMode(in4, OUTPUT);
+  //Configuracion de velocidad
+  
+
+  moverServo(angulo);  // Centra el servo
+}
+
+void loop() {
+  if (SerialBT.available()) {
+    int msj= SerialBT.read();
+    //String mensaje = SerialBT.readStringUntil('\n');
+    Serial.println(msj);
+    if(msj>=0 && msj<=180){
+      moverServo(msj);
+      }else if(msj == 182){ //Rota los motores hacia adelante
+        digitalWrite(in1,1);
+        digitalWrite(in2,0);
+        digitalWrite(in3,1);
+        digitalWrite(in4,0);
+ 
+      }else if(msj == 183){ //Atras
+        digitalWrite(in1,0);
+        digitalWrite(in2,1);
+        digitalWrite(in3,0);
+        digitalWrite(in4,1);
+
+      }else if(msj == 184){
+        digitalWrite(in1,1);
+        digitalWrite(in2,0);
+        digitalWrite(in3,0);
+        digitalWrite(in4,1);
+
+      }else if(msj == 185){
+        digitalWrite(in1,0);
+        digitalWrite(in2,1);
+        digitalWrite(in3,1);
+        digitalWrite(in4,0);
+
+      }else if(msj == 186){
+        digitalWrite(in1,0);
+        digitalWrite(in2,0);
+        digitalWrite(in3,0);
+        digitalWrite(in4,0);
+      }
+
+  }
+    
+
+    
+
+  }
+  
+
+
+// Convierte el ángulo a señal PWM
+void moverServo(int angulo) {
+  int duty = map(angulo, 0, 180, 13, 26);  // Ajusta si el servo no recorre bien
+  ledcWrite(SERVO_PIN, duty);
+}
+</code></pre>
+
+<img src="recursos/imgs/puente_h.jpg" alt="Puente H" width="410">
+
+
+
+

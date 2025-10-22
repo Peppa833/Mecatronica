@@ -202,4 +202,24 @@ void loop(){
   allowfullscreen>
 </iframe>
 
+---
 
+#Tercer trabajo
+  
+##Resumen  
+
+- **Nombre del Proyecto:** Control de motores con ESP32
+- **Equipo:** Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
+- **Curso:** Introduccion a la mecatronica
+- **Fecha:** 19/09/2025
+- **Descripcion:** El trabajo que se realizo el dia 19 de septiembre de 2025, fue un circuito en una protoboard, el trabajo consistio en hacer que un motor avanzara pero debido a que la protoboard solo soporta hasta 5V se conecto un puente H que soporta mas voltaje para conectar los motores y fueran funcionales
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/c0Wkdk3EUK0" 
+  title="YouTube Shorts video" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>

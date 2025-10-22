@@ -72,11 +72,11 @@ Considero que mi mayor logro hasta el momento fue tener la oportunidad de ir a n
   
 ##Resumen  
 
-- Nombre del Proyecto: Led intermitente
-- Equipo: Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
-- Curso: Introduccion a la mecatronica
-- Fecha: 05/09/2025
-- Descripcion: El trabajo que se realizo el dia 5 de septiembre de 2025, fue un circuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, en nuestro caso, duraba 6 segundos encedido, y 4 segundos apagado, debido a las resistencias, el capacitador, y la corriente que usamos. 
+- **Nombre del Proyecto:** Led intermitente
+- **Equipo:** Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
+- **Curso:** Introduccion a la mecatronica
+- **Fecha:** 05/09/2025
+- **Descripcion:** El trabajo que se realizo el dia 5 de septiembre de 2025, fue un circuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, en nuestro caso, duraba 6 segundos encedido, y 4 segundos apagado, debido a las resistencias, el capacitador, y la corriente que usamos. 
 
 <img src="recursos/imgs/imagen.png" alt="Diagrama del sistema" width="410">
 
@@ -100,11 +100,11 @@ En el siguiente video se puede apreciar el LED apagandose y encendiendose
   
 ##Resumen  
 
-- Nombre del Proyecto: ESP32
-- Equipo: Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
-- Curso: Introduccion a la mecatronica
-- Fecha: 12/09/2025
-- Descripcion: El trabajo que se realizo el dia 12 de septiembre de 2025, fue un circuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, con el codigo de arduino hecho en clase y cargado al Chip ESP32 
+- **Nombre del Proyecto:** ESP32
+- **Equipo:** Santiago Ortiz Mucharraz y Alejandro Ruiz Corona
+- **Curso:** Introduccion a la mecatronica
+- **Fecha:** 12/09/2025
+- **Descripcion:** El trabajo que se realizo el dia 12 de septiembre de 2025, fue un circuito en una protoboard, el trabajo consistio en hacer que el Led se apagara y se prendiera cada cierto tiempo, con el codigo de arduino hecho en clase y cargado al Chip ESP32 
 
 <pre><code>
 int led = 2;
@@ -224,6 +224,8 @@ void loop(){
   allowfullscreen>
 </iframe>
 
+---
+
 #Proyecto
   
 ##Resumen  
@@ -321,7 +323,24 @@ void moverServo(int angulo) {
 }
 </code></pre>
 
+##Puente H
 <img src="recursos/imgs/puente_h.jpg" alt="Puente H" width="410">
+
+##Carritos
+<img src="recursos/imgs/Carritos.jpg" alt="Carritos" width="410">
+
+---
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/899tlEvNqXU" 
+  title="YouTube Shorts video" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
 
 
 
